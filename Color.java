@@ -1,5 +1,6 @@
-enum Color
-{
-    BLACK,RED,YELLOW,ORANGE,WHITE;
+package com.xworkz.array;
 
+public enum Color 
+{
+	BLOCK,RED,PINK;
 }
